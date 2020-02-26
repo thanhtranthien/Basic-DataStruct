@@ -3,7 +3,7 @@
 
 Bài giảng có cấu trúc như sau:
 
-<\B Chương 1. Tổng quan về Cấu trúc dữ liệu và Thuật toán />
+Chương 1. Tổng quan về Cấu trúc dữ liệu và Thuật toán
 
   1.1 Thuật toán
 
